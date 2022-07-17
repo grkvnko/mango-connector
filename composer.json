@@ -1,0 +1,15 @@
+{
+  "name": "grkvnko/mango-connector",
+  "type": "library",
+  "version": "1.0",
+  "autoload": {
+    "psr-4": {
+      "grkvnko\\MangoConnector\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.3",
+    "ext-json": "*",
+    "ext-curl": "*"
+  }
+}
