@@ -1,10 +1,10 @@
 
-###подключение
+### подключение
 ```
 composer require grkvnko/mango-connector
 ```
 
-###использование
+### использование
 
 ```php
 use grkvnko\MangoConnector\MangoAPIConnector;
